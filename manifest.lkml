@@ -13,6 +13,6 @@ application: lookml-diagram {
 }
 
 constant: CONNECTION_NAME {
-  value: "choose-connection"
+  value: "uat_psas_db"
   export: override_required
 }
